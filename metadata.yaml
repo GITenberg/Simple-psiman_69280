@@ -1,0 +1,25 @@
+_repo: Simple-psiman_69280
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, F.L.
+    gutenberg_agent_id: '55194'
+    url: http://www.gutenberg.org/2009/agents/55194
+description: ''
+gutenberg_issued: '2022-11-01'
+identifiers:
+  gutenberg: '69280'
+language: en
+pgterms:marc905: 20220522113336wallace
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: 'United States: Better Publications, Inc.,1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Simple psiman
+url: http://www.gutenberg.org/ebooks/69280
